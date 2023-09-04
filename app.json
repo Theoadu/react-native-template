@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bacmobileapp",
-    "slug": "bacmobileapp",
+    "name": "app_name",
+    "slug": "app_name",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./app/assets/icon.png",
